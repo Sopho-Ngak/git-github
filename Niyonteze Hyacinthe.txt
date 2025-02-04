@@ -1,0 +1,9 @@
+What I have understood:
+I have understood that git is a local tracking of historical changes on files in a project/folder
+While github is a remote tracking of historical changes on files in a project/folder
+Questions:
+1. When you push more than one and you have opened a PR already, i.e you have more than one commits when you merge to the main branch, 
+is the recent commit to be mergered?
+2. I don't understood well meaning of corrabolating on project. Do it mean that different PR can be opened to be mergered to the main branch?
+
+Thanks Sopho,
